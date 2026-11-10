@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv run tools/process.py *)",
+      "Bash(uv run tools/library.py)",
+      "Edit(library/**)"
+    ]
+  }
+}
